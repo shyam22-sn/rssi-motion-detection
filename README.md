@@ -1,10 +1,13 @@
 
 # 📡 WiFi RSSI-Based Human Motion Detection
 
-![GitHub repo size](https://img.shields.io/github/repo-size/yourusername/wifi-motion-detection)
-![GitHub last commit](https://img.shields.io/github/last-commit/yourusername/wifi-motion-detection)
-![GitHub stars](https://img.shields.io/github/stars/yourusername/wifi-motion-detection?style=social)
-![License](https://img.shields.io/github/license/yourusername/wifi-motion-detection)
+
+![GitHub repo size](https://img.shields.io/github/repo-size/shyam22-sn/rssi-motion-detection)
+![GitHub last commit](https://img.shields.io/github/last-commit/shyam22-sn/rssi-motion-detection)
+![GitHub stars](https://img.shields.io/github/stars/shyam22-sn/rssi-motion-detection?style=social)
+![License](https://img.shields.io/github/license/shyam22-sn/rssi-motion-detection)
+
+
 
 ---
 
