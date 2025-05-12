@@ -13,7 +13,7 @@
 
 <img src="visuals/model_performance_comparison.png" alt="Model Comparison" width="600"/>
 <br>
-<img src="visuals/rssi_signal_plot.png" alt="RSSI Signal Sample" width="600"/>
+<img src="visuals/rssi_p2f_robo_eds.png" alt="RSSI Signal Sample" width="600"/>
 
 ---
 
